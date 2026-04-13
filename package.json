@@ -1,0 +1,10 @@
+{
+  "name": "syfo",
+  "version": "1.0.0",
+  "description": "Minimal system dashboard",
+  "bin": {
+    "syfo": "./bin.js"
+  },
+  "type": "commonjs",
+  "license": "MIT"
+}
