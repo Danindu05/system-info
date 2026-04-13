@@ -4,7 +4,7 @@ A fast and lightweight CLI tool to display detailed system information directly 
 
 ---
 
-## 🌐 Website Features
+## 🌐 Features
 
 * **🖥️ System Overview** – View CPU, memory, and OS details instantly.
 * **⚡ Fast & Lightweight** – Runs quickly with minimal resource usage.
